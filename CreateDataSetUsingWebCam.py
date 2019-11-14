@@ -6,8 +6,8 @@ import os
 # FolderName - The name of the class or person
 # ImageName - The name of the image
 DATADIR = "E:/ML Projects/LiveFaceDetection/dataset"
-FolderName = "Vijay"
-ImageName = "Vijayq"
+FolderName = "Rahul"
+ImageName = "Rahul"
 
 # Import the face detection classifier
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
